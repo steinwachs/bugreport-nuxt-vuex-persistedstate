@@ -1,6 +1,7 @@
 # nuxtinit and vuex-persistedstate issue
 
-Reproduction project for nuxt initialisation issue with vuex-persistedstate. 
+Reproduction project for nuxt initialisation issue with vuex-persistedstate.
+
 Issue Link on Github: [#3731](https://github.com/nuxt/nuxt.js/issues/3731)
 
 ## Build Setup
