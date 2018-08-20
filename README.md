@@ -1,4 +1,4 @@
-# nuxtinit-bug
+# nuxtinit and vuex-persistedstore issue
 
 Reproduction project for nuxt initialisation issue with vuex-persistedstore. 
 Issue Link on Github: [#3731](https://github.com/nuxt/nuxt.js/issues/3731)
